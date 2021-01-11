@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 .venv/
 redis-stable/
+dump.rdb
 
 # C extensions
 *.so
